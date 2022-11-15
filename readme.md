@@ -4,7 +4,7 @@
 
 # 📌 ** Project Link 👇** 
 
-[Food_Restaurant](https://radiant-klepon-688b4a.netlify.app/)
+[Food_Restaurant](https://stalwart-smakager-df46f2.netlify.app/)
 
 # 📌 This Project is given in **"JavaScript Full stack Web Development Bootcamp"** by iNeuron.
 
