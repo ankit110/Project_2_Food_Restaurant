@@ -4,7 +4,7 @@
 
 # 📌 ** Project Link 👇** 
 
-[Food_Restaurant](https://stalwart-smakager-df46f2.netlify.app/)
+[Food_Restaurant](https://ankit110.github.io/Project_2_Food_Restaurant/)
 
 # 📌 This Project is given in **"JavaScript Full stack Web Development Bootcamp"** by iNeuron.
 
